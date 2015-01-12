@@ -4,7 +4,7 @@
 
   This is a repositry that contains most of the useful tools for developers and scientist who are working on their undergraduate study.For me, a student who's going to graduate. I found the following tools are pretty much useful throughout my study and research. And I'm working mostly on Windows and Linux, so sorry for mac users.
 
-**Basic Programming and Development:
+### Basic Programming and Development:
 
   1. Vmwware/VirtualBox + linux(Ubuntu,Debian,Gentoos)
   2. Python+WingIDE.
@@ -19,7 +19,7 @@
   11. Matlab
   12. MIPS+Xspim
 
-**Graphics/Vision/Multimedia:
+### Graphics/Vision/Multimedia:
 
   1. OpenCV+OpenGL
   2. Photoshop
@@ -27,7 +27,7 @@
   4. Unity
   5. Lightroom
 
-**Scientific use:
+### Scientific use:
 
   1. SPSS+SAS
   2. Loggerpro
